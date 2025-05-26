@@ -55,4 +55,4 @@ A comprehensive **Windows Forms application** built with **C# (.NET Framework 4.
 ### Steps to Run
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Ey0s/MyLibrary.git
