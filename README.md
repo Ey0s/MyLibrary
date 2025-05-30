@@ -27,6 +27,7 @@ A comprehensive **Windows Forms application** built with **C# (.NET Framework 4.
 - **Return Books**: Mark books as returned, updating availability.
 - **Overdue Tracking**: Identify late returns.
 - **Show Returned Books**: Toggle view to see return history.
+- **Search Functionality**: Find borrowed books.
 
 ### 5. Modern UI & User Experience
 - **Responsive Design**: Adapts to various screen sizes.
