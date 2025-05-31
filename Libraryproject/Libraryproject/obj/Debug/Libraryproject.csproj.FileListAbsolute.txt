@@ -1,0 +1,11 @@
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\bin\Debug\Libraryproject.exe.config
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\bin\Debug\Libraryproject.exe
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\bin\Debug\Libraryproject.pdb
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.csproj.AssemblyReference.cache
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.Properties.Resources.resources
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.csproj.GenerateResource.cache
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.csproj.CoreCompileInputs.cache
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.exe
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.pdb
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.Form1.resources
+C:\Users\eyos\source\repos\Libraryproject\Libraryproject\obj\Debug\Libraryproject.FormMain.resources
